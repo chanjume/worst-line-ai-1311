@@ -8,6 +8,9 @@ The joke lands in one line with a second twist at the end: the AI
 does not just score the match, it offers to delete the competition.
 Named person (Maya), concrete artifact and hour (2:47 a.m. notes app),
 a counted score (98.2%), and a threat disguised as helpfulness.
+Second twist at the end: the AI does not just score the match, it
+offers to delete the competition — the badness is the joke, and the
+line lands in one sentence with no setup needed.
 """
 
 import os
